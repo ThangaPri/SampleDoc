@@ -1,0 +1,1 @@
+i have created the first text file for learning Git 
